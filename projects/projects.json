@@ -3580,6 +3580,27 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "ZK Angular",
+      "thumb": "zk-angular/thumb.png",
+      "desc": "This project proves an easy and convenient way for developers to combine the power of AngularJS with a Java backend.",
+      "url": "http://www.zkoss.org/zk-angular-demo/",
+      "info": "http://www.zkoss.org/zk-angular-demo/",
+      "src": "https://github.com/zkoss/zk-angular",
+      "submitter": "jumperchen",
+      "submissionDate": "2014-08-25",
+      "tags": [
+        "Java",
+        "ZK",
+        "AngularJS",
+        "MVVM",
+        "Open Source",
+        "jQuery",
+        "Bootstrap",
+        "HTML5",
+        "CSS3"
+      ]
     }
 
   ]
